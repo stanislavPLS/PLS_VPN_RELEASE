@@ -1,6 +1,9 @@
 #profile-title: PLS_VPN
 #profile-update-interval: 1
 
+vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@213.165.63.20:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=lv.tundaddy.com&sid=6ba85179e30d4fc2#🇱🇻 латвия тест
+
+
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@178.17.53.91:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fi.tundaddy.com&sid=6ba85179e30d4fc2#🇫🇮 НОВЫЙ 1 ФИНЛЯНДИЯ ТЕСТ
 
 vless://e97f42e7-1c3a-4f6c-bed8-b4e1e428a2d8@fl1.vps-vless.su:443?security=reality&encryption=none&pbk=Kvt9ahv7SpD8u2qCWYCMjU3qsDLW1A1VmO6tXKQEoBs&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fl1.vps-vless.su#🇫🇮 НОВЫЙ 2 ФИНЛЯНДИЯ ТЕСТ
@@ -53,6 +56,7 @@ vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@144.31.178.175:10000?mode=multi&sec
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@78.40.117.112:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=se.tundaddy.com&sid=6ba85179e30d4fc2#🇸🇪 7.2 ШВЕЦИЯ-YT | PLS_VPN
 
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:10003?security=reality&encryption=none&pbk=jl60P0fWrYB6M9gjvvz1ygvFJXPC3G_aD0Z_w9mSrEw&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=f34271fc8470d9b6#🇷🇺 7.3 РОСССИЯ_БЫСТРЫЙ-YT | PLS_VPN
+
 
 
 
