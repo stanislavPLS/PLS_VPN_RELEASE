@@ -46,9 +46,9 @@ vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:10016?security=real
 vless://26524cce-d514-4014-a426-365fb266a14d@135.125.181.144:443?path=%2Fdanfeng%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40MrR2&security=tls&encryption=none&host=MrR2.443888.xyz&allowinsecure=1&type=ws&sni=MrR2.443888.xyz#🇫🇷 4.1 ФРАНЦИЯ ОБНОВЛЕНА | PLS_VPN
 
 
-vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?security=tls&encryption=none&alpn=h2&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=b12a6eea4807ca4e.1323.world#🇫🇷 4.2 ФРАНЦИЯ | PLS_VPN
+vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?security=tls&encryption=none&alpn=h2&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=b12a6eea4807ca4e.1323.world#🇫🇷 4.2 ФРАНЦИЯ ОБНОВЛЕНА | PLS_VPN
 
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@fr.cdn.stun.su:443?security=reality&encryption=none&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&pbk=8LWgKu6h8cXgOAixKaKPdGponKkAeQaq-IszDEQ4ojM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.cdn.stun.su&sid=3bdec72a5a0ffd84#🇫🇷 4.3 ФРАНЦИЯ | PLS_VPN
+vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?security=tls&encryption=none&alpn=h2&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=b12a6eea4807ca4e.1323.world#🇫🇷 4.3 ФРАНЦИЯ ОБНОВЛЕНА | PLS_VPN
 
 vless://26524cce-d514-4014-a426-365fb266a14d@143.20.213.195:8443?encryption=none&security=tls&sni=WangCai.443888.xyz&type=ws&host=WangCai.443888.xyz&path=%2Fdanfeng%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇺🇸 5.1 США  | PLS_VPN
 
@@ -63,6 +63,7 @@ vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@144.31.178.175:10000?mode=multi&sec
 
 
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@78.40.117.112:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=se.tundaddy.com&sid=6ba85179e30d4fc2#🇸🇪 7.2 ШВЕЦИЯ-YT | PLS_VPN
+
 
 
 
