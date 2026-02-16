@@ -46,7 +46,7 @@ vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:10016?security=real
 ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ==@95.111.250.4:80#🇫🇷 🔥4.1 ФРАНЦИЯ ОБНОВЛЕНА | PLS_VPN
 
 
-vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?security=tls&encryption=none&alpn=h2&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=b12a6eea4807ca4e.1323.world#🇫🇷 4.2 ФРАНЦИЯ ОБНОВЛЕНА | PLS_VPN
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fran.scroogethebest.com&sid=4fa44664f6a566d3#🇫🇷 🔥4.2 ФРАНЦИЯ ОБНОВЛЕНА | PLS_VPN
 
 vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?security=tls&encryption=none&alpn=h2&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=b12a6eea4807ca4e.1323.world#🇫🇷 4.3 ФРАНЦИЯ ОБНОВЛЕНА | PLS_VPN
 
@@ -63,6 +63,7 @@ vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@144.31.178.175:10000?mode=multi&sec
 
 
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@78.40.117.112:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=se.tundaddy.com&sid=6ba85179e30d4fc2#🇸🇪 7.2 ШВЕЦИЯ-YT | PLS_VPN
+
 
 
 
