@@ -1,7 +1,7 @@
 #profile-title: PLS_VPN
 #profile-update-interval: 1
 
-vless://e97f42e7-1c3a-4f6c-bed8-b4e1e428a2d8@fl2.vps-vless.su:443?security=reality&encryption=none&pbk=7_I9dtriqTufthvUd6qQgPAWP4hdzdrsct1H57P2ixE&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fl2.vps-vless.su#🇫🇮 НОВЫЙ 1 ФИНЛЯНДИЯ ТЕСТ
+vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@178.17.53.91:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fi.tundaddy.com&sid=6ba85179e30d4fc2#🇫🇮 НОВЫЙ 1 ФИНЛЯНДИЯ ТЕСТ
 
 vless://e97f42e7-1c3a-4f6c-bed8-b4e1e428a2d8@fl1.vps-vless.su:443?security=reality&encryption=none&pbk=Kvt9ahv7SpD8u2qCWYCMjU3qsDLW1A1VmO6tXKQEoBs&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fl1.vps-vless.su#🇫🇮 НОВЫЙ 2 ФИНЛЯНДИЯ ТЕСТ
 
@@ -51,6 +51,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.254:443?path=%2F%3Fed%3D
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@144.31.178.175:10000?mode=multi&security=reality&encryption=none&alpn=h2&authority=&pbk=tWGERxNEu5B-uGBySsFghzmoJa3iK5W1AdWb7fVmUEM&fp=qq&allowinsecure=0&type=grpc&serviceName=grpc&sni=ee.tundaddy.com&sid=3357d3b354df3a8b#🇪🇪 7.1 ЭСТОНИЯ-YT | PLS_VPN
 
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@78.40.117.112:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=se.tundaddy.com&sid=6ba85179e30d4fc2#🇸🇪 7.2 ШВЕЦИЯ-YT | PLS_VPN
+
 
 
 
