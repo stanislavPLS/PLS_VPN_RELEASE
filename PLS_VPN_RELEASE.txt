@@ -1,9 +1,9 @@
 #profile-title: PLS_VPN
 #profile-update-interval: 1
 
-vless://18b05161-15e4-454e-a41c-a31d55bc8b42@fl2.vps-vless.su:443?security=reality&encryption=none&pbk=7_I9dtriqTufthvUd6qQgPAWP4hdzdrsct1H57P2ixE&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fl2.vps-vless.su#🇫🇮 НОВЫЕ 1 ФИНЛЯНДИЯ ТЕСТ
+vless://e97f42e7-1c3a-4f6c-bed8-b4e1e428a2d8@fl2.vps-vless.su:443?security=reality&encryption=none&pbk=7_I9dtriqTufthvUd6qQgPAWP4hdzdrsct1H57P2ixE&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fl2.vps-vless.su#🇫🇮 НОВЫЙ 1 ФИНЛЯНДИЯ ТЕСТ
 
-vless://18b05161-15e4-454e-a41c-a31d55bc8b42@fl1.vps-vless.su:443?security=reality&encryption=none&pbk=Kvt9ahv7SpD8u2qCWYCMjU3qsDLW1A1VmO6tXKQEoBs&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fl1.vps-vless.su#🇫🇮 НОВЫЕ 2 ФИНЛЯНДИЯ ТЕСТ
+vless://e97f42e7-1c3a-4f6c-bed8-b4e1e428a2d8@fl1.vps-vless.su:443?security=reality&encryption=none&pbk=Kvt9ahv7SpD8u2qCWYCMjU3qsDLW1A1VmO6tXKQEoBs&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fl1.vps-vless.su#🇫🇮 НОВЫЙ 2 ФИНЛЯНДИЯ ТЕСТ
 
 vless://c690db76-e866-4bca-b184-4965d29ab086@51.250.65.209:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=d17bd238f23fba92&sni=api-maps.yandex.ru&type=tcp#🇷🇺 0.1 БЕЛЫЕ СПИСКИ | PLS_VPN
 
@@ -63,6 +63,7 @@ vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@144.31.178.175:10000?mode=multi&sec
 
 
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@78.40.117.112:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=se.tundaddy.com&sid=6ba85179e30d4fc2#🇸🇪 7.2 ШВЕЦИЯ-YT | PLS_VPN
+
 
 
 
