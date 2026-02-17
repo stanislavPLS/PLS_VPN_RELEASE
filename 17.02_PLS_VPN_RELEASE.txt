@@ -14,7 +14,7 @@ vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.65.209:443?security=reality&
 
 vless://490ecb4b-8ee1-4d33-9d6d-b034899a1039@51.250.26.75:443?security=reality&encryption=none&pbk=7IOtSp0-n2_uNS5nMO9ywZbn2HibMRGy0KbLad3szXc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=5e6f7a8b#🇷🇺 0.2 БЕЛЫЕ СПИСКИ | PLS_VPN
 
-vless://65704afe-e26a-4266-9ff3-4d09c0f04c14@151.236.114.162:6443?encryption=none&fp=chrome&pbk=pGFgy_rrpU51v3IFm-dYHOJskMDJO0kCAkIIHJdUSF8&security=reality&sid=f3e8b2b1&sni=max.ru&type=tcp#🇷🇺 0.3 БЕЛЫЕ СПИСКИ | PLS_VPN
+vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@146.185.209.170:443?security=reality&encryption=none&pbk=qd_GG7X_J2mEd-tlgMDDkNF8X9ksPNgoJb1GBWSQCCM&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=055b24a4a480451f#🇷🇺 0.3 БЕЛЫЕ СПИСКИ | PLS_VPN
 
 vless://72cc47f5-409f-4f9c-bd48-b785038cf75c@37.139.43.198:1111?security=reality&encryption=none&pbk=YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#🇷🇺 0.4 БЕЛЫЕ СПИСКИ | PLS_VPN
 
@@ -58,6 +58,7 @@ vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@144.31.178.175:10000?mode=multi&sec
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@78.40.117.112:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=se.tundaddy.com&sid=6ba85179e30d4fc2#🇸🇪 7.2 ШВЕЦИЯ-YT | PLS_VPN
 
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:10003?security=reality&encryption=none&pbk=jl60P0fWrYB6M9gjvvz1ygvFJXPC3G_aD0Z_w9mSrEw&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=f34271fc8470d9b6#🇷🇺 7.3 РОСССИЯ_БЫСТРЫЙ-YT | PLS_VPN
+
 
 
 
