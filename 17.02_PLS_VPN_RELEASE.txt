@@ -21,11 +21,11 @@ vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@89.185.80.126:10000?mode=gun&securi
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.169.76.23:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&allowinsecure=0&type=ws&sni=sni.111000.indevs.in#🇬🇧 2. ВЕЛИКОБРИТАНИЯ
 
-vless://e97f42e7-1c3a-4f6c-bed8-b4e1e428a2d8@fl1.vps-vless.su:443?security=reality&encryption=none&pbk=Kvt9ahv7SpD8u2qCWYCMjU3qsDLW1A1VmO6tXKQEoBs&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fl1.vps-vless.su#🇫🇮 3. ФИНЛЯНДИЯ 
+vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:10012?security=reality&encryption=none&pbk=oZ4XACzjGgiN22jY5wva5a08wyUshVcDbvyynL2O9Ck&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=4f67160038ddd6bc#🇹🇭 3. ТАЙЛАНД 
 
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fran.scroogethebest.com&sid=4fa44664f6a566d3#🇫🇷 4. ФРАНЦИЯ
 
-vless://e97f42e7-1c3a-4f6c-bed8-b4e1e428a2d8@de1.vps-vless.su:443?security=reality&encryption=none&pbk=21Ua20v19jMQ0xm8oxK5Xm4s7FwgjtdztLh_LYG3xRM&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de1.vps-vless.su#🇩🇪 5. ГЕРМАНИЯ 
+vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@95.85.233.146:10000?mode=gun&security=reality&encryption=none&authority=&pbk=tWGERxNEu5B-uGBySsFghzmoJa3iK5W1AdWb7fVmUEM&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc&sni=de3.tundaddy.com&sid=3357d3b354df3a8b#🇩🇪 5. ГЕРМАНИЯ 
 
 vless://921f6fe7-1c3a-4f6c-bed8-b4e1e428a2d8@de1.vps-vless.su:99999?security=reality&encryption=none&pbk=21Ua20v19jMQ0xm8oxK5Xm4s7FwgjtdztLh_LYG3xRM&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de1.vps-vless.su# БЫСТРЫЕ 👇
 
@@ -52,6 +52,7 @@ vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:10011?security=real
 
 
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@81.19.140.68:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ca.tundaddy.com&sid=6ba85179e30d4fc2#🇨🇦 5. КАНАДА
+
 
 
 
