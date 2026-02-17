@@ -22,32 +22,30 @@ vless://64a3a23c-363a-4bee-9401-f5c42eea5a27@51.250.55.167:443?security=reality&
 
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@5.188.140.76:10006?mode=auto&path=%2Fv2%2Fhealth&security=reality&encryption=none&pbk=qd_GG7X_J2mEd-tlgMDDkNF8X9ksPNgoJb1GBWSQCCM&fp=qq&allowinsecure=0&type=xhttp&sni=api-maps.yandex.ru&sid=055b24a4a480451f#🇷🇺 0.9 БЕЛЫЕ СПИСКИ | PLS_VPN
 
-vless://cc976b15-418b-4f0b-89ce-cd685ffbaf20@91.219.227.189:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&sid=81#🇩🇪 1.1 ГЕРМАНИЯ плюс БЕЛЫЕ СПИСКИ | PLS_VPN
+vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@146.185.209.170:10001?security=reality&encryption=none&pbk=qd_GG7X_J2mEd-tlgMDDkNF8X9ksPNgoJb1GBWSQCCM&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=055b24a4a480451f#🇵🇱 1.1 ПОЛЬША плюс БЕЛЫЕ СПИСКИ | PLS_VPN
 
-vless://c343f67e-8781-4a8e-97e4-e74ab137eb1c@5.188.143.8:83/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=IJXhnkkk8ouGXeOF1DXEfsz8HsuQHZBJm8VXlRMd0Hg&sid=1d33e456#🇳🇱 1.2 НИДЕРЛАНДЫ плюс БЕЛЫЕ СПИСКИ | PLS_VPN
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.17.85:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&host=sni.111000.v6.navy&allowinsecure=0&type=ws&sni=sni.111000.v6.navy#🇱🇻 1.2 ЛАТВИЯ плюс БЕЛЫЕ СПИСКИ | PLS_VPN
 
-vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@146.185.209.170:10001?security=reality&encryption=none&pbk=qd_GG7X_J2mEd-tlgMDDkNF8X9ksPNgoJb1GBWSQCCM&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=055b24a4a480451f#🇵🇱 1.3 ПОЛЬША плюс БЕЛЫЕ СПИСКИ | PLS_VPN
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.17.85:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&host=sni.111000.v6.navy&allowinsecure=0&type=ws&sni=sni.111000.v6.navy#🇱🇻 1.4 ЛАТВИЯ плюс БЕЛЫЕ СПИСКИ | PLS_VPN
-
-vless://17c900a2-781d-4e9d-ee6a-b1672f2b9e52@64.188.83.204:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de.tundaddy.com&sid=6ba85179e30d4fc2#🇩🇪 2.1 ГЕРМАНИЯ | PLS_VPN
+vless://e97f42e7-1c3a-4f6c-bed8-b4e1e428a2d8@de1.vps-vless.su:443?security=reality&encryption=none&pbk=21Ua20v19jMQ0xm8oxK5Xm4s7FwgjtdztLh_LYG3xRM&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=de1.vps-vless.su#🇩🇪 2.1 ГЕРМАНИЯ | PLS_VPN
 
 ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ@2.58.81.221:80#🇩🇪 🔥2.2 ГЕРМАНИЯ | PLS_VPN
 
-vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:19999?security=reality&encryption=none&pbk=3PIJexEqYBOIuspPE0ggB3njZ8e6TWsbGkv_pgOkeQ4&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=dfc64422c5a8dd8e#🇯🇵 3.1 ЯПОНИЯ | PLS_VPN
+vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:10016?security=reality&encryption=none&pbk=3PIJexEqYBOIuspPE0ggB3njZ8e6TWsbGkv_pgOkeQ4&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=dfc64422c5a8dd8e#🇯🇵 3.1 ЯПОНИЯ | PLS_VPN
 
 ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ==@95.111.250.4:80#🇫🇷 🔥4.1 ФРАНЦИЯ ОБНОВЛЕНА | PLS_VPN
 
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fran.scroogethebest.com&sid=4fa44664f6a566d3#🇫🇷 4.2 ФРАНЦИЯ ОБНОВЛЕНА | PLS_VPN
 
-vless://e97f42e7-1c3a-4f6c-bed8-b4e1e428a2d8@us1.vps-vless.su:443?security=reality&encryption=none&pbk=7LMwfU9Z58BfWH5tVORozE1bJxc3vNKN5OqQrCc6YXc&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=us1.vps-vless.su#🇺🇸 5.1 США  | PLS_VPN
+vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@89.185.80.126:10000?mode=gun&security=reality&encryption=none&authority=&pbk=tWGERxNEu5B-uGBySsFghzmoJa3iK5W1AdWb7fVmUEM&fp=qq&allowinsecure=0&type=grpc&serviceName=grpc&sni=us.tundaddy.com&sid=3357d3b354df3a8b#🇺🇸 5.1 США  | PLS_VPN
 
 ss://YWVzLTI1Ni1nY206a0VWS20xeHZnemVFbjhBVg@209.26.5.209:80#🇺🇸 🔥5.2 США  | PLS_VPN
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.169.76.23:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&allowinsecure=0&type=ws&sni=sni.111000.indevs.in#🇬🇧 6.1 ВЕЛИКОБРИТАНИЯ | PLS_VPN
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.254:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.v6.navy&allowinsecure=0&type=ws&sni=sni.111000.v6.navy#🇬🇧 6.2 ВЕЛИКОБРИТАНИЯ | PLS_VPN
 
-vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@213.165.63.20:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=lv.tundaddy.com&sid=6ba85179e30d4fc2#🇱🇻 7.1 ЛАТВИЯ | PLS_VPN
+vless://525e49c0-8396-4dac-bb2d-36412723e5cb@79.137.175.59:8443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=e57932a42872a362#🇹🇷 7.1 ТУРЦИЯ СТАР | PLS_VPN
+
+vless://525e49c0-8396-4dac-bb2d-36412723e5cb@84.252.136.245:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=205748bc0f24a747#🇹🇷 7.2 ТУРЦИЯ | PLS_VPN
 
 
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@178.17.53.91:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=fi.tundaddy.com&sid=6ba85179e30d4fc2#🇫🇮 8.1 ФИНЛЯНДИЯ | PLS_VPN
@@ -56,11 +54,12 @@ vless://e97f42e7-1c3a-4f6c-bed8-b4e1e428a2d8@fl1.vps-vless.su:443?security=reali
 
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@185.76.243.58:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl.tundaddy.com&sid=6ba85179e30d4fc2#🇳🇱 9.1 НИДЕРЛАНДЫ | PLS_VPN
 
-vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@144.31.178.175:99990?mode=multi&security=reality&encryption=none&alpn=h2&authority=&pbk=tWGERxNEu5B-uGBySsFghzmoJa3iK5W1AdWb7fVmUEM&fp=qq&allowinsecure=0&type=grpc&serviceName=grpc&sni=ee.tundaddy.com&sid=3357d3b354df3a8b#🇪🇪 10.1 ЭСТОНИЯ-YT | PLS_VPN
+vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@144.31.178.175:99990?mode=multi&security=reality&encryption=none&alpn=h2&authority=&pbk=tWGERxNEu5B-uGBySsFghzmoJa3iK5W1AdWb7fVmUEM&fp=qq&allowinsecure=0&type=grpc&serviceName=grpc&sni=ee.tundaddy.com&sid=3357d3b354df3a8b#🇪🇪 ❌ | PLS_VPN
 
-vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@78.40.117.112:5262717?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=se.tundaddy.com&sid=6ba85179e30d4fc2#🇸🇪 10.2 ШВЕЦИЯ-YT | PLS_VPN
+vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@se.tundaddy.com:10000?mode=gun&security=reality&encryption=none&authority=&pbk=tWGERxNEu5B-uGBySsFghzmoJa3iK5W1AdWb7fVmUEM&fp=qq&allowinsecure=0&type=grpc&serviceName=grpc&sni=se.tundaddy.com&sid=3357d3b354df3a8b#🇸🇪 10.2 ШВЕЦИЯ-YT СТАР | PLS_VPN
 
-vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:999993?security=reality&encryption=none&pbk=jl60P0fWrYB6M9gjvvz1ygvFJXPC3G_aD0Z_w9mSrEw&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=f34271fc8470d9b6#🇷🇺 10.3 РОСССИЯ-YT | PLS_VPN
+vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:999993?security=reality&encryption=none&pbk=jl60P0fWrYB6M9gjvvz1ygvFJXPC3G_aD0Z_w9mSrEw&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=f34271fc8470d9b6#🇷🇺 ❌ | PLS_VPN
+
 
 
 
