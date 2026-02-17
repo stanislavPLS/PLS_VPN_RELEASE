@@ -8,8 +8,7 @@ vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@146.185.209.170:443?security=realit
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@146.185.209.170:10001?security=reality&encryption=none&pbk=qd_GG7X_J2mEd-tlgMDDkNF8X9ksPNgoJb1GBWSQCCM&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=055b24a4a480451f#🇷🇺 2. БЕЛЫЕ СПИСКИ | БЫСТРЫЕ
 
 vless://490ecb4b-8ee1-4d33-9d6d-b034899a1039@51.250.26.75:443?security=reality&encryption=none&pbk=7IOtSp0-n2_uNS5nMO9ywZbn2HibMRGy0KbLad3szXc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=5e6f7a8b#🇷🇺 3. БЕЛЫЕ СПИСКИ 
-
-vless://cda801b5-5768-449e-bcf2-518abc1939ff@51.250.26.75:443?security=reality&encryption=none&pbk=7IOtSp0-n2_uNS5nMO9ywZbn2HibMRGy0KbLad3szXc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=a1b2c3d4#🇷🇺 4. БЕЛЫЕ СПИСКИ
+vless://72cc47f5-409f-4f9c-bd48-b785038cf75c@37.18.14.183:1111?security=reality&encryption=none&pbk=YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#🇷🇺 4. БЕЛЫЕ СПИСКИ
 
 vless://dddd3838-5cd6-4c2f-953f-d41a34a46336@51.250.26.75:443?security=reality&encryption=none&pbk=7IOtSp0-n2_uNS5nMO9ywZbn2HibMRGy0KbLad3szXc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=b8cf9578640a9edf#🇷🇺 5. БЕЛЫЕ СПИСКИ
 
@@ -53,6 +52,7 @@ vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:10011?security=real
 
 
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@81.19.140.68:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ca.tundaddy.com&sid=6ba85179e30d4fc2#🇨🇦 5. КАНАДА
+
 
 
 
