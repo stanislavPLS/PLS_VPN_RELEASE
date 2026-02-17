@@ -1,5 +1,5 @@
 #profile-title: PLS_VPN
-#profile-update-interval: 1
+#profile-update-interval: 3
 
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:999993?security=reality&encryption=none&pbk=jl60P0fWrYB6M9gjvvz1ygvFJXPC3G_aD0Z_w9mSrEw&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=f34271fc8470d9b6# БЕЛЫЕ СПИСКИ 👇
 
@@ -52,6 +52,7 @@ vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:10011?security=real
 
 
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@81.19.140.68:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ca.tundaddy.com&sid=6ba85179e30d4fc2#🇨🇦 5. КАНАДА
+
 
 
 
