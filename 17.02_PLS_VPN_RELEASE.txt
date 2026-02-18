@@ -40,9 +40,10 @@ vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:10011?security=real
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@81.19.140.68:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ca.tundaddy.com&sid=6ba85179e30d4fc2#🇨🇦 18. КАНАДА
 
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46577#🇰🇷 СЕВЕРНАЯ КОРЕЯ ВРЕМЕННАЯ
+vless://68a76476-3448-457b-96fb-bdc2cb444482@node1.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node1.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇦🇹  19. АВСТРИЯ
 
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:10003?security=reality&encryption=none&pbk=jl60P0fWrYB6M9gjvvz1ygvFJXPC3G_aD0Z_w9mSrEw&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=f34271fc8470d9b6# 20. ЮТУБ 
+
 
 
 
