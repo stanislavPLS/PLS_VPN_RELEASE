@@ -35,9 +35,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.254:443?path=%2F%3Fed%3D
 
 ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ==@95.111.250.4:80#🇫🇷 3. ФРАНЦИЯ
 
-
 ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ@2.58.81.221:80#🇩🇪 4. ГЕРМАНИЯ 
-
 
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@255.255.255.1:2662?security=reality&encryption=none&pbk=3PIJexEqYBOIuspPE0ggB3njZ8e6TWsbGkv_pgOkeQ4&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=dfc64422c5a8dd8e# ОСТАЛЬНЫЕ 👇
 
@@ -49,9 +47,8 @@ vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@se.tundaddy.com:10000?mode=gun&secu
 
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:10011?security=reality&encryption=none&pbk=oZ4XACzjGgiN22jY5wva5a08wyUshVcDbvyynL2O9Ck&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=4f67160038ddd6bc#🇭🇰 4. ГОНКОНГ
 
-
-
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@81.19.140.68:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ca.tundaddy.com&sid=6ba85179e30d4fc2#🇨🇦 5. КАНАДА
+
 
 
 
