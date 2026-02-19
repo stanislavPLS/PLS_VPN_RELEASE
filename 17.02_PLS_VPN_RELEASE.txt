@@ -7,7 +7,7 @@ vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@146.185.209.170:443?security=realit
 
 vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@146.185.209.170:10007?security=reality&encryption=none&pbk=n-7R9Psuja5npVxNQEDRiAEkmWHreyfSnrSci6IZmE0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=055b24a4a480451f#🇷🇺 3. БЕЛЫЕ СПИСКИ | ОБНОВЛЁННЫЙ
 
-vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@5.188.140.76:10006?mode=auto&path=%2Fv2%2Fhealth&security=reality&encryption=none&pbk=qd_GG7X_J2mEd-tlgMDDkNF8X9ksPNgoJb1GBWSQCCM&fp=qq&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=055b24a4a480451f#🇷🇺 4. БЕЛЫЕ СПИСКИ | ЭКСТРИМ
+vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@5.188.140.76:10006?mode=auto&path=%2Fv2%2Fhealth&security=reality&encryption=none&pbk=qd_GG7X_J2mEd-tlgMDDkNF8X9ksPNgoJb1GBWSQCCM&fp=qq&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=055b24a4a480451f#🇷🇺 4. БЕЛЫЕ СПИСКИ
 
 vless://dddd3838-5cd6-4c2f-953f-d41a34a46336@51.250.26.75:443?security=reality&encryption=none&pbk=7IOtSp0-n2_uNS5nMO9ywZbn2HibMRGy0KbLad3szXc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=b8cf9578640a9edf#🇷🇺 5. БЕЛЫЕ СПИСКИ
 
@@ -22,17 +22,17 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:80
 
 ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw==@149.102.132.186:80#🇬🇧 10. ⚡ВЕЛИКОБРИТАНИЯ
 
-vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:10012?security=reality&encryption=none&pbk=oZ4XACzjGgiN22jY5wva5a08wyUshVcDbvyynL2O9Ck&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=4f67160038ddd6bc#🇹🇭 11. 🐢ТАЙЛАНД 
+vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@gw.tundaddy.com:10012?security=reality&encryption=none&pbk=oZ4XACzjGgiN22jY5wva5a08wyUshVcDbvyynL2O9Ck&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=4f67160038ddd6bc#🇹🇭 11. ТАЙЛАНД 
 
-ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ@95.111.250.4:80#🇫🇷 12. ⚡ФРАНЦИЯ
+ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ@95.111.250.4:80#🇫🇷 12. ФРАНЦИЯ
 
 vless://e2dc4dc0-a86e-460f-8e97-6c075dbb2212@89.208.223.68:4443?security=reality&encryption=none&pbk=qcQom3B0_DRglQSToL7c2e3yN9y_rpA5IsXNbvrBhmg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=401e9d1dd82ecba5#🇩🇪 13. 🐢ГЕРМАНИЯ 
 
 ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ@2.58.81.221:80#🇩🇪 14. ⚡ГЕРМАНИЯ 
 
-vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:10016?security=reality&encryption=none&pbk=3PIJexEqYBOIuspPE0ggB3njZ8e6TWsbGkv_pgOkeQ4&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=dfc64422c5a8dd8e#🇯🇵 15. ЯПОНИЯ
+vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@gw.tundaddy.com:10016?security=reality&encryption=none&pbk=3PIJexEqYBOIuspPE0ggB3njZ8e6TWsbGkv_pgOkeQ4&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=dfc64422c5a8dd8e#🇯🇵 15. ЯПОНИЯ
 
-vless://525e49c0-8396-4dac-bb2d-36412723e5cb@79.137.175.59:8443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=e57932a42872a362#🇹🇷 16. ТУРЦИЯ 
+vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@gw.tundaddy.com:10008?security=reality&encryption=none&pbk=oZ4XACzjGgiN22jY5wva5a08wyUshVcDbvyynL2O9Ck&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=4f67160038ddd6bc#🇹🇷 16. ТУРЦИЯ 
 
 
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:10011?security=reality&encryption=none&pbk=oZ4XACzjGgiN22jY5wva5a08wyUshVcDbvyynL2O9Ck&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=4f67160038ddd6bc#🇭🇰 17. ГОНКОНГ
@@ -43,6 +43,7 @@ vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@81.19.140.68:443?security=reality&e
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@at.jojack.ru:443?security=reality&encryption=none&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=at.jojack.ru&sid=8dc4fccb2bcfc99d#🇦🇹  19. АВСТРИЯ
 
 vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@176.123.164.194:10003?security=reality&encryption=none&pbk=jl60P0fWrYB6M9gjvvz1ygvFJXPC3G_aD0Z_w9mSrEw&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=f34271fc8470d9b6# 20. ЮТУБ 
+
 
 
 
