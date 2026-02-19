@@ -1,5 +1,6 @@
 #profile-title: PLS_VPN
 #profile-update-interval: 2
+#announce: PLS_VPN, ПРИЯТНОГО ИСПОЛЬЗОВАНИЯ, ТРАФИК БЕЗЛИМИТНЫЙ, БЕСПЛАТНО НАВСЕГДА, ТЕХПОДДЕРЖКА: @Stas_PLS_VPN_Helper, каждый день добавляем новые сервера
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.65.209:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2476f063981ffd92#🇷🇺 1. БЕЛЫЕ СПИСКИ | ОБНОВЛЁННЫЙ 
 
@@ -41,6 +42,10 @@ vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@144.31.178.198:443?security=reality
 vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@se.tundaddy.com:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=se.tundaddy.com&sid=6ba85179e30d4fc2#🇸🇪 19. ШВЕЦИЯ | НОВЫЙ
 
 vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@gw.tundaddy.com:10002?security=reality&encryption=none&pbk=jl60P0fWrYB6M9gjvvz1ygvFJXPC3G_aD0Z_w9mSrEw&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=f34271fc8470d9b6#🇮🇹 20. ИТАЛИЯ | НОВЫЙ
+
+vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@gw.tundaddy.com:10003?security=reality&encryption=none&pbk=jl60P0fWrYB6M9gjvvz1ygvFJXPC3G_aD0Z_w9mSrEw&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=f34271fc8470d9b6# 21. ЮТУБ | БЫСТРЫЙ 
+
+vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@213.165.63.20:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=lv.tundaddy.com&sid=6ba85179e30d4fc2# 22. ЮТУБ | МЕДЛЕННЫЙ
 
 
 
