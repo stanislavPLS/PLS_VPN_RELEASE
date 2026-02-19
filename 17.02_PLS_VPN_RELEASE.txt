@@ -43,9 +43,13 @@ vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@se.tundaddy.com:443?security=realit
 
 vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@gw.tundaddy.com:10002?security=reality&encryption=none&pbk=jl60P0fWrYB6M9gjvvz1ygvFJXPC3G_aD0Z_w9mSrEw&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=f34271fc8470d9b6#🇮🇹 20. ИТАЛИЯ | НОВЫЙ
 
-vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@gw.tundaddy.com:10003?security=reality&encryption=none&pbk=jl60P0fWrYB6M9gjvvz1ygvFJXPC3G_aD0Z_w9mSrEw&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=f34271fc8470d9b6# 21. ЮТУБ | БЫСТРЫЙ 
+vless://7bd2ba18-df63-41b9-9ca3-c8df0bd1b2b7@147.45.217.250:443?mode=auto&path=%2Fws&security=reality&encryption=none&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&fp=randomized&allowinsecure=0&type=xhttp&sni=sun6-22.userapi.com#🇱🇹 21. ЛИТВА | НОВЫЙ 
 
-vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@213.165.63.20:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=lv.tundaddy.com&sid=6ba85179e30d4fc2# 22. ЮТУБ | МЕДЛЕННЫЙ
+
+vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@gw.tundaddy.com:10003?security=reality&encryption=none&pbk=jl60P0fWrYB6M9gjvvz1ygvFJXPC3G_aD0Z_w9mSrEw&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=f34271fc8470d9b6# 22. ЮТУБ
+
+vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@213.165.63.20:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=lv.tundaddy.com&sid=6ba85179e30d4fc2# 23. ЮТУБ
+
 
 
 
