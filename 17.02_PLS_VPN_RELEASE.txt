@@ -1,30 +1,30 @@
 м#profile-title: PLS_VPN
-#profile-update-interval: 2
+#profile-update-interval: 5
 #announce: PLS_VPN, ПРИЯТНОГО ИСПОЛЬЗОВАНИЯ, ТРАФИК БЕЗЛИМИТНЫЙ, БЕСПЛАТНО НАВСЕГДА, ТЕХПОДДЕРЖКА: @Stas_PLS_VPN_Helper, каждый день добавляем новые сервера
 
 
-vless://f5a8e5fb-baa8-48cb-a62a-930c97c29eb2@87.242.103.184:443?mode=gun&security=reality&encryption=none&authority=&pbk=98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc&fp=chrome&spx=%2F&allowinsecure=0&type=grpc&serviceName=&sni=ya.ru&sid=7dcd0c337708#🇷🇺 0. БЕЛЫЕ КОНТРОЛЬ | ТЕСТ
+vless://f5a8e5fb-baa8-48cb-a62a-930c97c29eb2@87.242.103.184:443?mode=gun&security=reality&encryption=none&authority=&pbk=98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc&fp=chrome&spx=%2F&allowinsecure=0&type=grpc&serviceName=&sni=ya.ru&sid=7dcd0c337708#🇷🇺 1. БЕЛЫЕ СПИСКИ
 
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.65.209:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2476f063981ffd92#🇷🇺 1. БЕЛЫЕ СПИСКИ | старый
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.65.209:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2476f063981ffd92#🇷🇺 2. БЕЛЫЕ СПИСКИ 
 
-vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?security=reality&encryption=none&pbk=-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=yandex.ru&sid=6670#🇷🇺 2. БЕЛЫЕ СПИСКИ | НОВЫЕ
+vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?security=reality&encryption=none&pbk=-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=yandex.ru&sid=6670#🇷🇺 3. БЕЛЫЕ СПИСКИ 
 
-vless://c4d9855b-7eac-44ab-a8a5-d811f371df1b@109.120.191.46:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=4b523a98e1bbd15b#🇷🇺 3. БЕЛЫЕ СПИСКИ | НОВЫЕ
+vless://c4d9855b-7eac-44ab-a8a5-d811f371df1b@109.120.191.46:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=4b523a98e1bbd15b#🇷🇺 4. БЕЛЫЕ СПИСКИ
 
-vless://c4d9855b-7eac-44ab-a8a5-d811f371df1b@109.120.191.46:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=a76ea384b29a4f79#🇷🇺 4. БЕЛЫЕ СПИСКИ | НОВЫЕ
 
 vless://b2019c04-5b7c-4be4-a65c-ca5ea90bf8fd@51.250.4.119:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=17802e8ff84f12df#🇳🇱 5. ⚠️НИДЕРЛАНДЫ БЕЛЫЕ | НОВЫЕ
 
 vless://c4d9855b-7eac-44ab-a8a5-d811f371df1b@84.252.130.60:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=33554379411b3219#🇳🇱 6. ⚠️НИДЕРЛАНДЫ БЕЛЫЕ | ТУРБО
+announce: Сервера из подписки должны использоваться ТОЛЬКО при белых списках!
 
-ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng@66.94.125.178:80#🇺🇸 7. 🐢США
+vless://01896982-f9df-4bd5-8f32-914253db2e61@84.252.130.60:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=95ec618532fa065e#🇷🇺 7. РЕЗЕРВ ОНЛИ 3G
 
-ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg@154.53.63.32:80#🇺🇸 8. ⚡США 
+ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg@154.53.63.32:80#🇺🇸 8. США | ТУРБО
 
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#🇬🇧 9. 🐢 ВЕЛИКОБРИТАНИЯ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#🇬🇧 9. ВЕЛИКОБРИТАНИЯ 
 
-ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw==@149.102.132.186:80#🇬🇧 10. ⚡ВЕЛИКОБРИТАНИЯ
+ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw==@149.102.132.186:80#🇬🇧 10. ВЕЛИКОБРИТАНИЯ | ТУРБО
 
 vless://7bd2ba18-df63-41b9-9ca3-c8df0bd1b2b7@87.120.165.22:443?security=reality&encryption=none&pbk=P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=39a1eb3ec417cd66#11. ДЛЯ ChatGPT и Gemini | test
 
@@ -39,6 +39,7 @@ vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@gw.tundaddy.com:10016?security=real
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#🇹🇷 16. ТУРЦИЯ | НОВЫЕ
 
 vless://7bd2ba18-df63-41b9-9ca3-c8df0bd1b2b7@147.45.217.250:443?mode=auto&path=%2Fws&security=reality&encryption=none&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&fp=randomized&allowinsecure=0&type=xhttp&sni=sun6-22.userapi.com#🇱🇹 17. ЛИТВА
+
 
 
 
