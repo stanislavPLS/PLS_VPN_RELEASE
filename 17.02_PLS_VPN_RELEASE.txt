@@ -36,22 +36,13 @@ ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ@2.58.81.221:80#🇩🇪 14. ⚡ГЕ�
 
 vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@gw.tundaddy.com:10016?security=reality&encryption=none&pbk=3PIJexEqYBOIuspPE0ggB3njZ8e6TWsbGkv_pgOkeQ4&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=dfc64422c5a8dd8e#🇯🇵 15. ЯПОНИЯ
 
-vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@83.217.9.111:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tr.tundaddy.com&sid=6ba85179e30d4fc2#🇹🇷 16. ТУРЦИЯ | ЭКСТРИМ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#🇹🇷 16. ТУРЦИЯ | НОВЫЕ
 
-vless://17c900a2-781d-4e9d-846a-b1672f2b9e52@81.19.140.68:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ca.tundaddy.com&sid=6ba85179e30d4fc2#🇨🇦 17. КАНАДА
-
-vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@144.31.178.198:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ee2.tundaddy.com&sid=6ba85179e30d4fc2#🇪🇪 18. ЭСТОНИЯ | НОВЫЙ
-
-vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@se.tundaddy.com:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=se.tundaddy.com&sid=6ba85179e30d4fc2#🇸🇪 19. ШВЕЦИЯ | НОВЫЙ
-
-vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@gw.tundaddy.com:10002?security=reality&encryption=none&pbk=jl60P0fWrYB6M9gjvvz1ygvFJXPC3G_aD0Z_w9mSrEw&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gw.tundaddy.com&sid=f34271fc8470d9b6#🇮🇹 20. ИТАЛИЯ | НОВЫЙ
-
-vless://7bd2ba18-df63-41b9-9ca3-c8df0bd1b2b7@147.45.217.250:443?mode=auto&path=%2Fws&security=reality&encryption=none&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&fp=randomized&allowinsecure=0&type=xhttp&sni=sun6-22.userapi.com#🇱🇹 21. ЛИТВА | НОВЫЙ 
+vless://7bd2ba18-df63-41b9-9ca3-c8df0bd1b2b7@147.45.217.250:443?mode=auto&path=%2Fws&security=reality&encryption=none&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&fp=randomized&allowinsecure=0&type=xhttp&sni=sun6-22.userapi.com#🇱🇹 17. ЛИТВА
 
 
-vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@144.31.178.175:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ee.tundaddy.com&sid=6ba85179e30d4fc2# 22. ЮТУБ
 
-vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@213.165.63.20:443?security=reality&encryption=none&pbk=17vNxH_mj1uS_HiVaZSuHlVK1B_NKfBNvMPTExp-ryA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=lv.tundaddy.com&sid=6ba85179e30d4fc2# 23. ЮТУБ
+
 
 
 
