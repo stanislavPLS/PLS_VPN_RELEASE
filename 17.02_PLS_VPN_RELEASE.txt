@@ -1,4 +1,4 @@
-#profile-title: PLS_VPN
+м#profile-title: PLS_VPN
 #profile-update-interval: 2
 #announce: PLS_VPN, ПРИЯТНОГО ИСПОЛЬЗОВАНИЯ, ТРАФИК БЕЗЛИМИТНЫЙ, БЕСПЛАТНО НАВСЕГДА, ТЕХПОДДЕРЖКА: @Stas_PLS_VPN_Helper, каждый день добавляем новые сервера
 
@@ -30,7 +30,7 @@ vless://7bd2ba18-df63-41b9-9ca3-c8df0bd1b2b7@87.120.165.22:443?security=reality&
 
 ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ@95.111.250.4:80#🇫🇷 12. ФРАНЦИЯ
 
-vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 13. ГЕРМАНИЯ
+vless://jina@4.185.113.10:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=jina-418511310-direct.yektanet.co#🇩🇪 13. ГЕРМАНИЯ
 
 ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ@2.58.81.221:80#🇩🇪 14. ГЕРМАНИЯ | ТУРБО
 
@@ -39,6 +39,7 @@ vless://2fcab84f-6a23-4a84-a32d-6e50ba7e8d0e@gw.tundaddy.com:10016?security=real
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#🇹🇷 16. ТУРЦИЯ | НОВЫЕ
 
 vless://7bd2ba18-df63-41b9-9ca3-c8df0bd1b2b7@147.45.217.250:443?mode=auto&path=%2Fws&security=reality&encryption=none&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&fp=randomized&allowinsecure=0&type=xhttp&sni=sun6-22.userapi.com#🇱🇹 17. ЛИТВА
+
 
 
 
