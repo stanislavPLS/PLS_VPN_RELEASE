@@ -1,5 +1,5 @@
 #profile-title: PLS_VPN
-#profile-update-interval: 8
+#profile-update-interval: 12
 #announce: PLS_VPN, ПРИЯТНОГО ИСПОЛЬЗОВАНИЯ, ТРАФИК БЕЗЛИМИТНЫЙ, БЕСПЛАТНО НАВСЕГДА, ТЕХПОДДЕРЖКА: @Stas_PLS_VPN_Helper, каждый день добавляем новые сервера
 
 
@@ -12,7 +12,7 @@ vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?security=reality
 vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?security=reality&encryption=none&pbk=-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=yandex.ru&sid=6670#🇷🇺 4. БЕЛЫЕ СПИСКИ
 
 
-vless://b2019c04-5b7c-4be4-a65c-ca5ea90bf8fd@51.250.4.119:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=17802e8ff84f12df#🇳🇱 5. ⚠️НИДЕРЛАНДЫ БЕЛЫЕ | НОВЫЕ
+vless://b2019c04-5b7c-4be4-a65c-ca5ea90bf8fd@51.250.4.119:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=17802e8ff84f12df#🇳🇱 5. ⚠️НИДЕРЛАНДЫ БЕЛЫЕ СПИСКИ 
 
 vless://c4d9855b-7eac-44ab-a8a5-d811f371df1b@84.252.130.60:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=33554379411b3219#🇳🇱 6. ⚠️НИДЕРЛАНДЫ БЕЛЫЕ | ТУРБО
 
@@ -34,13 +34,13 @@ vless://jina@4.185.113.10:443?security=tls&encryption=none&alpn=h2,http/1.1&head
 
 ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ@2.58.81.221:80#🇩🇪 14. ГЕРМАНИЯ | ТУРБО
 
-vless://8ae49b54-7eba-435b-b410-514bffe7bd17@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#🇪🇸 15. ИСПАНИЯ | НОВЫЕ
+vless://8ae49b54-7eba-435b-b410-514bffe7bd17@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#🇪🇸 15. ИСПАНИЯ
 
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#🇹🇷 16. ТУРЦИЯ
 
-vless://0e8d47bb-86ce-4289-ae87-56019eb398bf@72.56.102.209:443?type=tcp&encryption=none&security=reality&pbk=te0ybXSTq9JN31Jnpi0MF0_CvO1vOKHIUbTrPFY9x2c&fp=chrome&sni=www.microsoft.com&sid=1ea5ea1bba&spx=%2F&flow=xtls-rprx-vision#🌐 ТЕСТ 100МБит/С
 
+hysteria://#test
 
 
 
