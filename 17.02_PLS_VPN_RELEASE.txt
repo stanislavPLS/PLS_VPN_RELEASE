@@ -40,7 +40,10 @@ vless://8ae49b54-7eba-435b-b410-514bffe7bd17@37.139.34.145:8443?security=reality
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#🇹🇷 16. ТУРЦИЯ
 
 
-hysteria://#test
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?security=tls&headerType=none&allowinsecure=1&type=tcp&sni=ads.x5.ru# test new protocol 
+
+hysteria2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@143.47.32.143:35000/?insecure=1&sni=www.lamer.com.hk# test new protocol
+
 
 
 
