@@ -1,6 +1,6 @@
 #profile-title: PLS_VPN
-#profile-update-interval: 12
-#announce: PLS_VPN, ПРИЯТНОГО ИСПОЛЬЗОВАНИЯ, ТРАФИК БЕЗЛИМИТНЫЙ, БЕСПЛАТНО НАВСЕГДА, ТЕХПОДДЕРЖКА: @Stas_PLS_VPN_Helper, каждый день добавляем новые сервера
+#profile-update-interval: 6
+#announce: 
 
 
 vless://f5a8e5fb-baa8-48cb-a62a-930c97c29eb2@87.242.103.184:443?mode=gun&security=reality&encryption=none&authority=&pbk=98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc&fp=chrome&spx=%2F&allowinsecure=0&type=grpc&serviceName=&sni=ya.ru&sid=7dcd0c337708#🇷🇺 1. БЕЛЫЕ СПИСКИ
@@ -9,24 +9,24 @@ vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.65.209:443?security=reality&
 
 vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?security=reality&encryption=none&pbk=-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=yandex.ru&sid=6670#🇷🇺 3. БЕЛЫЕ СПИСКИ 
 
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.65.209:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2476f063981ffd92#🇷🇺 4. БЕЛЫЕ СПИСКИ | ТУРБО
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.65.209:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2476f063981ffd92#🇷🇺 4. БЕЛЫЕ СПИСКИ
 
-vless://5eb1160d-e6e4-4918-942a-3e02dc4450d4@79.174.94.49:14065?security=reality&encryption=none&pbk=6_hMGHFRodRl4rUOlv0mJJBC-9en9gNpypLiNqBAuw0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=ads.x5.ru&sid=281902#🇷🇺 5. БЕЛЫЕ СПИСКИ | 100МБит/Сек
+vless://5eb1160d-e6e4-4918-942a-3e02dc4450d4@79.174.94.49:14065?security=reality&encryption=none&pbk=6_hMGHFRodRl4rUOlv0mJJBC-9en9gNpypLiNqBAuw0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=ads.x5.ru&sid=281902#🇷🇺 5. БЕЛЫЕ СПИСКИ
 
 
 vless://b2019c04-5b7c-4be4-a65c-ca5ea90bf8fd@51.250.4.119:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=17802e8ff84f12df#🇳🇱 6. НИДЕРЛАНДЫ БЕЛЫЕ СПИСКИ 
 
 
-vless://c15c00a4-9e8e-4d22-9f2e-dc237c8b1220@130.193.59.133:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=f32140952ba18e18#🇮🇹 7. БЕЛЫЕ ⚠️ИТАЛИЯ | ТУРБО
+vless://c15c00a4-9e8e-4d22-9f2e-dc237c8b1220@130.193.59.133:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=f32140952ba18e18#🇮🇹 7. БЕЛЫЕ ⚠️ИТАЛИЯ
 
-ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg@154.53.63.32:80#🇺🇸 8. США | ТУРБО
+ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg@154.53.63.32:80#🇺🇸 8. США
 
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#🇬🇧 9. ВЕЛИКОБРИТАНИЯ 
 
-ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw==@149.102.132.186:80#🇬🇧 10. ВЕЛИКОБРИТАНИЯ | ТУРБО
+ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw==@149.102.132.186:80#🇬🇧 10. ВЕЛИКОБРИТАНИЯ
 
-vless://e1cd50ff-9af9-48f0-8fea-de718260f0f8@151.247.197.218:503?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.amd.com&fp=safari&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sid=#🇫🇷 11. СТАБИЛЬНАЯ ФРАНЦИЯ | 100 МБит/Сек
+vless://e1cd50ff-9af9-48f0-8fea-de718260f0f8@151.247.197.218:503?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.amd.com&fp=safari&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sid=#🇫🇷 11. ФРАНЦИЯ
 
 ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ@95.111.250.4:80#🇫🇷 12. ФРАНЦИЯ
 
@@ -34,13 +34,14 @@ vless://jina@4.185.113.10:443?security=tls&encryption=none&alpn=h2,http/1.1&head
 
 ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ@2.58.81.221:80#🇩🇪 14. ГЕРМАНИЯ | ТУРБО
 
-vless://8ae49b54-7eba-435b-b410-514bffe7bd17@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#🇪🇸 15. ИСПАНИЯ
+vless://27889873-1e8b-442a-b61e-ac03c4df7b03@185.8.60.18:443?type=tcp&security=reality&encryption=none&flow=&sni=cloudrynth.com&fp=&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&sid=#🇱🇹 15. ЛИТВА | НОВОЕ
 
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#🇹🇷 16. ТУРЦИЯ
 
 
-vless://27889873-1e8b-442a-b61e-ac03c4df7b03@185.8.60.18:443?type=tcp&security=reality&encryption=none&flow=&sni=cloudrynth.com&fp=&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&sid=#Testing New Server
+
+
 
 
 
