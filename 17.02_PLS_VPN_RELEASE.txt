@@ -1,6 +1,6 @@
 #profile-title: PLS_VPN
 #profile-update-interval: 4
-#announce: 🪖 с наступающим 23 февраля, автообновление - 6 часов, техподдержка: @Stas_PLS_VPN_Helper [тг]
+#announce: 🪖 с наступающим 23 февраля, автообновление - 4 часов, техподдержка: @Stas_PLS_VPN_Helper [тг], приятного использования
 
 
 vless://f5a8e5fb-baa8-48cb-a62a-930c97c29eb2@87.242.103.184:443?mode=gun&security=reality&encryption=none&authority=&pbk=98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc&fp=chrome&spx=%2F&allowinsecure=0&type=grpc&serviceName=&sni=ya.ru&sid=7dcd0c337708#🇷🇺 1. 🪖 БЕЛЫЕ СПИСКИ
@@ -38,6 +38,7 @@ vless://27889873-1e8b-442a-b61e-ac03c4df7b03@185.8.60.18:443?type=tcp&security=r
 
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#🇹🇷 16. 🪖 ТУРЦИЯ
+
 
 
 
