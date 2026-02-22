@@ -39,6 +39,7 @@ vless://27889873-1e8b-442a-b61e-ac03c4df7b03@185.8.60.18:443?type=tcp&security=r
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#🇹🇷 16. 🪖 ТУРЦИЯ
 
+vless://e1cd50ff-9af9-48f0-8fea-de718260f0f8@185.70.185.228:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=pingless.com&fp=safari&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sid=#🇳🇱 17. 🪖 НИДЕРЛАНДЫ | НОВОЕ
 
 
 
