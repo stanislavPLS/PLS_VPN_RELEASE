@@ -3,11 +3,11 @@
 #announce: автообновление - 4 часов, техподдержка: @Stas_PLS_VPN_Helper [тг], приятного использования
 
 
-vless://9a599b2e-5455-44d5-9a72-5c76f28e93e3@109.120.191.46:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=4b523a98e1bbd15b#🇷🇺 1. БЕЛЫЕ СПИСКИ ОБНОВЛЁННЫЕ
+vless://9a599b2e-5455-44d5-9a72-5c76f28e93e3@109.120.191.46:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=4b523a98e1bbd15b#🇷🇺 1. БЕЛЫЕ СПИСКИ 
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.65.209:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2476f063981ffd92#🇷🇺 2. БЕЛЫЕ СПИСКИ 
 
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.0.147:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6354585c37827955#🇷🇺 3. БЕЛЫЕ СПИСКИ ОБНОВЛЁННЫЕ
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.0.147:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6354585c37827955#🇷🇺 3. БЕЛЫЕ СПИСКИ
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.65.209:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2476f063981ffd92#🇷🇺 4. БЕЛЫЕ СПИСКИ
 
@@ -150,6 +150,7 @@ vless://e1cd50ff-9af9-48f0-8fea-de718260f0f8@185.70.185.228:8443?type=tcp&securi
   ],
   "remarks": "🇷🇺 19. ЮТУБ БЕЗ РЕКЛАМЫ | НОВОЕ"
 }
+
 
 
 
