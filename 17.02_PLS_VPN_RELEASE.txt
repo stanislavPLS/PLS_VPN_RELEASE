@@ -43,7 +43,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:
 
 vless://e1cd50ff-9af9-48f0-8fea-de718260f0f8@185.70.185.228:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=pingless.com&fp=safari&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sid=#🇳🇱 18. НИДЕРЛАНДЫ | НОВОЕ
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzTXpvdkNSZVlYUmNEZllhWXhzOE53UFRYYkFYSHpWRQ==@255.112.255.0:1488#19 Бразилия тест 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzTXpvdkNSZVlYUmNEZllhWXhzOE53UFRYYkFYSHpWRQ==@128.0.0.0:443#19 Бразилия тест 
+
 
 
 
