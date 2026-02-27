@@ -2,8 +2,7 @@
 #profile-update-interval: 4
 #announce: автообновление - 4 часов, техподдержка: @Stas_PLS_VPN_Helper [тг], приятного использования
 
-hysteria2://bd515574-3b10-11ee-ac14-f23c9164ca5d@ad72fc1d-t70f40-tb016b-1m7l4.hk1.hyhuawei.com:443?security=tls&mportHopInt=30&mport=40-tb016b-1m7l4.hk1.hyhuawei.com&allowinsecure=0&sni=ad72fc1d-t70f40-tb016b-1m7l4.hk1.hyhuawei.com#Test only tg
-
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#тест БЕЛЫЕ НОВЫЙ ПРОТОКОЛ
 
 vless://9a599b2e-5455-44d5-9a72-5c76f28e93e3@109.120.191.46:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=4b523a98e1bbd15b#🇷🇺 1. БЕЛЫЕ СПИСКИ 
 
@@ -49,6 +48,7 @@ vless://602ccb3d-6eb8-4cb5-832b-d506a73b0f9d@147.45.116.72:443?mode=gun&security
 
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiaWpxclFOb1BBQlRpTDI2VTFlT0Ny@147.45.116.19:443/?outline=1#🇧🇷 20. бразилия
+
 
 
 
