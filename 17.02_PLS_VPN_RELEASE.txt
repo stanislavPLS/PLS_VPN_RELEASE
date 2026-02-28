@@ -20,7 +20,7 @@ vless://400c1f85-9d3a-444a-8a50-81b11f3b4c20@84.201.128.76:443?security=reality&
 
 vless://b4f272ea-cd4f-4df9-9929-1c6b49c0b6ac@51.250.86.102:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d17bd238f23fba92#🇷🇺 7. БЕЛЫЕ СПИСКИ
 
-ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg@154.53.63.32:80#🇺🇸 8. США
+
 
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#🇬🇧 9. ВЕЛИКОБРИТАНИЯ 
@@ -52,8 +52,9 @@ vless://602ccb3d-6eb8-4cb5-832b-d506a73b0f9d@147.45.116.72:443?mode=gun&security
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiaWpxclFOb1BBQlRpTDI2VTFlT0Ny@147.45.116.19:443/?outline=1#🇧🇷 21. БРАЗИЛИЯ
 
 
+ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg@154.53.63.32:80#🇺🇸 22. США
 
-
+ss://YWVzLTEyOC1nY206NTIzejJmZ3JkN2p4MHo1eHY2bzU=@167.160.90.51:11475#🇺🇸 23. США
 
 
 
