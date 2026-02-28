@@ -42,12 +42,15 @@ vless://602ccb3d-6eb8-4cb5-832b-d506a73b0f9d@147.45.217.250:443?mode=auto&path=%
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#🇹🇷 17. ТУРЦИЯ
 
-vless://e1cd50ff-9af9-48f0-8fea-de718260f0f8@185.70.185.228:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=pingless.com&fp=safari&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sid=#🇳🇱 18. НИДЕРЛАНДЫ | НОВОЕ
+vless://e1cd50ff-9af9-48f0-8fea-de718260f0f8@185.70.185.228:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=pingless.com&fp=safari&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sid=#🇳🇱 18. НИДЕРЛАНДЫ
 
-vless://602ccb3d-6eb8-4cb5-832b-d506a73b0f9d@147.45.116.72:443?mode=gun&security=reality&encryption=none&authority=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&fp=randomized&allowinsecure=0&type=grpc&serviceName=&sni=srv11.outlinekeys.com#🇧🇷 19. БРАЗИЛИЯ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#🇳🇱 19. НИДЕРЛАНДЫ 
+
+vless://602ccb3d-6eb8-4cb5-832b-d506a73b0f9d@147.45.116.72:443?mode=gun&security=reality&encryption=none&authority=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&fp=randomized&allowinsecure=0&type=grpc&serviceName=&sni=srv11.outlinekeys.com#🇧🇷 20. БРАЗИЛИЯ
 
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiaWpxclFOb1BBQlRpTDI2VTFlT0Ny@147.45.116.19:443/?outline=1#🇧🇷 20. бразилия
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiaWpxclFOb1BBQlRpTDI2VTFlT0Ny@147.45.116.19:443/?outline=1#🇧🇷 21. БРАЗИЛИЯ
+
 
 
 
