@@ -2,7 +2,7 @@
 #profile-update-interval: 4
 #announce: автообновление - 4 часов, техподдержка: @Stas_PLS_VPN_Helper [тг], приятного использования
 
-vless://da2d823f-f4e0-07d0-a4f7-f6e2fbeebe0f@5.188.141.67:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&allowinsecure=0&type=xhttp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 🟩 1. БЕЛЫЕ СПИСКИ 
+vless://da2d823f-f4e0-07d0-a4f7-f6e2fbeebe0f@5.188.141.67:443?mode=auto&security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&fp=chrome&allowinsecure=0&type=xhttp&flow=xtls-rprx-vision&sni=dnevnik.ru&sid=d8c6b58bcbb0c323#🇷🇺 🟩 1. БЕЛЫЕ СПИСКИ 
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.65.209:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2476f063981ffd92#🇷🇺 2. БЕЛЫЕ СПИСКИ 
 
@@ -51,6 +51,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiaWpxclFOb1BBQlRpTDI2VTFlT0Ny@147.45.116.19:
 ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg@154.53.63.32:80#🇺🇸 22. США
 
 ss://YWVzLTEyOC1nY206NTIzejJmZ3JkN2p4MHo1eHY2bzU=@167.160.90.51:11475#🇺🇸 23. США
+
 
 
 
