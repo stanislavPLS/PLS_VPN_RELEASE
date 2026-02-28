@@ -2,13 +2,14 @@
 #profile-update-interval: 4
 #announce: автообновление - 👍 4 часов, техподдержка: @Stas_PLS_VPN_Helper [тг], бесплатно, быстро, навсегда 
 
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@9.cdnconn.com:1443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&pbk=UoWP-cohTBmadLBP2fE823VBq8UvXI1qvRTKaaJnnRA&fp=qq&allowinsecure=0&type=xhttp&sni=sun6-21.userapi.com&sid=cb78164bcc0adb7b#🇷🇺 1. 🟩 БЕЛЫЕ СПИСКИ 
+vless://34536d24-0423-441e-956d-3b585e3daeb1@84.201.131.144:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&allowinsecure=0&type=xhttp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d1579a8745398e34#🇷🇺 1. 🟩🟩 БЕЛЫЕ СПИСКИ 
+
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.65.209:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2476f063981ffd92#🇷🇺 2. БЕЛЫЕ СПИСКИ 
 
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.0.147:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6354585c37827955#🇷🇺 3. БЕЛЫЕ СПИСКИ
+vless://080556c0-0117-07d0-b1d9-3708fa8ab8c4@37.139.33.223:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 3. БЕЛЫЕ СПИСКИ
 
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.65.209:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2476f063981ffd92#🇷🇺 4. БЕЛЫЕ СПИСКИ
+vless://642e5ad8-bd76-07d0-8b5c-b4d0628f07bc@5.188.141.67:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 4. БЕЛЫЕ СПИСКИ
 
 vless://89c8f8a0-a98c-4091-b91b-f57d228afd29@51.250.64.246:444?mode=gun&security=reality&encryption=none&authority=&pbk=7x07TcG4qOb1iSDB8KfdPdu9kZSlgQNzoEH0D1CpjGQ&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc&sni=5post-gate.x5.ru&sid=eeaaae5d951ddea3#🇫🇮 5. ФИНЛЯНДСКИЕ БЕЛЫЕ СПИСКИ 
 
@@ -51,6 +52,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiaWpxclFOb1BBQlRpTDI2VTFlT0Ny@147.45.116.19:
 ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg@154.53.63.32:80#🇺🇸 22. США
 
 ss://YWVzLTEyOC1nY206NTIzejJmZ3JkN2p4MHo1eHY2bzU=@167.160.90.51:11475#🇺🇸 23. 🟩 США
+
 
 
 
