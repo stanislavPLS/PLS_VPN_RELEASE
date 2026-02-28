@@ -2,8 +2,6 @@
 #profile-update-interval: 4
 #announce: автообновление - 4 часов, техподдержка: @Stas_PLS_VPN_Helper [тг], приятного использования
 
-trojan://7ona_dqeJq_6FPMsMY7E1aoNPRSVUegY@verswe.isgood.host:2087?security=reality&pbk=D6Rp5wFAzRZ-ZHOcKdaTK7aCfsBBu1jb3_dtvekt2W0&fp=random&allowinsecure=0&type=http&sni=api-maps.yandex.ru&sid=6ba85179e30d4fc2#новый протокол+новый тип соединения
-
 vless://9a599b2e-5455-44d5-9a72-5c76f28e93e3@109.120.191.46:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=4b523a98e1bbd15b#🇷🇺 1. БЕЛЫЕ СПИСКИ 
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.65.209:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2476f063981ffd92#🇷🇺 2. БЕЛЫЕ СПИСКИ 
@@ -14,14 +12,12 @@ vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.65.209:443?security=reality&
 
 vless://89c8f8a0-a98c-4091-b91b-f57d228afd29@51.250.64.246:444?mode=gun&security=reality&encryption=none&authority=&pbk=7x07TcG4qOb1iSDB8KfdPdu9kZSlgQNzoEH0D1CpjGQ&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc&sni=5post-gate.x5.ru&sid=eeaaae5d951ddea3#🇫🇮 5. ФИНЛЯНДСКИЕ БЕЛЫЕ СПИСКИ 
 
+vless://630349b3-5579-4701-8dc2-c95b5af2ba0a@212.233.78.21:2085?mode=auto&path=%2Fxhttp-kz&security=none&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A0.0%2C%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%228-16%22%2C%22maxConnections%22%3A0.0%2C%22hKeepAlivePeriod%22%3A0.0%2C%22hMaxRequestTimes%22%3A%22600-900%22%7D%2C%22noGRPCHeader%22%3Atrue%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxBufferedPosts%22%3A60.0%2C%22scMaxEachPostBytes%22%3A%222000000-3000000%22%2C%22scMinPostsIntervalMs%22%3A%2210-50%22%7D&type=xhttp#🇰🇿 6. 🟩 КАЗАХСТАНСКИЕ БЕЛЫЕ
 
-vless://400c1f85-9d3a-444a-8a50-81b11f3b4c20@84.201.128.76:443?security=reality&encryption=none&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=3c1523da43287ec4#🇩🇪 6. ГЕРМАНСКИЕ БЕЛЫЕ СПИСКИ 
-
-
-vless://b4f272ea-cd4f-4df9-9929-1c6b49c0b6ac@51.250.86.102:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d17bd238f23fba92#🇷🇺 7. БЕЛЫЕ СПИСКИ
+vless://400c1f85-9d3a-444a-8a50-81b11f3b4c20@84.201.128.76:443?security=reality&encryption=none&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=3c1523da43287ec4#🇩🇪 7. ГЕРМАНСКИЕ БЕЛЫЕ СПИСКИ 
 
 
-
+vless://b4f272ea-cd4f-4df9-9929-1c6b49c0b6ac@51.250.86.102:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d17bd238f23fba92#🇷🇺 8. БЕЛЫЕ СПИСКИ
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#🇬🇧 9. ВЕЛИКОБРИТАНИЯ 
 
@@ -55,6 +51,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiaWpxclFOb1BBQlRpTDI2VTFlT0Ny@147.45.116.19:
 ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg@154.53.63.32:80#🇺🇸 22. США
 
 ss://YWVzLTEyOC1nY206NTIzejJmZ3JkN2p4MHo1eHY2bzU=@167.160.90.51:11475#🇺🇸 23. США
+
 
 
 
