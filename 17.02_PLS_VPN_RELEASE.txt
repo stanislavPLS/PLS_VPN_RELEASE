@@ -1,68 +1,9 @@
-#profile-title: PLS_VPN
+#profile-title: ❌❌❌
 #profile-update-interval: 4
-#announce: автообновление - 4 часов, техподдержка: @Stas_PLS_VPN_Helper [тг], бесплатно, быстро, навсегда. технический перерыв, примерное оставшееся время: 3 часа 45 минут 
-
-vless://34536d24-0423-441e-956d-3b585e3daeb1@84.201.131.144:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d1579a8745398e34#🇷🇺 1. БЕЛЫЕ СПИСКИ 
+#announce: новая ссылка, телеграмм: @AURA_VPN 
 
 
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.65.209:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2476f063981ffd92#🇷🇺 2. БЕЛЫЕ СПИСКИ 
+vless://34536d24-0423-441e-956d-3b585e3daeb1@83.111.81.66:66666?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d1579a8745398e34#ПОДПИСКА УСТАРЕЛА
 
-vless://080556c0-0117-07d0-b1d9-3708fa8ab8c4@37.139.33.223:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 3. БЕЛЫЕ СПИСКИ
-
-vless://642e5ad8-bd76-07d0-8b5c-b4d0628f07bc@5.188.141.67:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 4. БЕЛЫЕ СПИСКИ
-
-vless://400c1f85-9d3a-444a-8a50-81b11f3b4c20@84.201.128.76:443?security=reality&encryption=none&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=3c1523da43287ec4#🇩🇪 5. ГЕРМАНСКИЕ БЕЛЫЕ СПИСКИ 
-
-vless://b4f272ea-cd4f-4df9-9929-1c6b49c0b6ac@51.250.86.102:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d17bd238f23fba92#🇷🇺 6. БЕЛЫЕ СПИСКИ
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#🇬🇧 7. ВЕЛИКОБРИТАНИЯ 
-
-ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw==@149.102.132.186:80#🇬🇧 8. ВЕЛИКОБРИТАНИЯ
-
-ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ@2.58.81.221:80#🇩🇪 9. ГЕРМАНИЯ 
-
-vless://27889873-1e8b-442a-b61e-ac03c4df7b03@185.8.60.18:443?type=tcp&security=reality&encryption=none&flow=&sni=cloudrynth.com&fp=&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&sid=#🇱🇹 10. ЛИТВА
-
-ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg@154.53.63.32:80#🇺🇸 11. США
-
-vless://1c1447e8-5eb0-4281-a7af-3b3a601310dd@62.60.245.202:8443?security=reality&encryption=none&pbk=7kyVRSCsBRJ-W30oLqoR-M1WTVxea8JFV9lp_ERRnh0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=www.cloudflare.com&sid=5317f23842140976#🇳🇱 12. Ютуб без рекламы 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+vless://34536d24-0423-441e-956d-3b585e3daeb1@123.45.67.48:9999?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d1579a8745398e34# тг: @AURA_VPN
 
