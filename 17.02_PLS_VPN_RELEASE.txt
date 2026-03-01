@@ -1,9 +1,10 @@
 #profile-title: ❌❌❌
 #profile-update-interval: 4
-#announce: новая ссылка, телеграмм: @AURA_VPN 
+#announce: новая ссылка, телеграмм: @AURA_VPN_OFF
 
 
 vless://34536d24-0423-441e-956d-3b585e3daeb1@83.111.81.66:66666?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d1579a8745398e34#ПОДПИСКА УСТАРЕЛА
 
-vless://34536d24-0423-441e-956d-3b585e3daeb1@123.45.67.48:9999?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d1579a8745398e34# тг: @AURA_VPN
+vless://34536d24-0423-441e-956d-3b585e3daeb1@123.45.67.48:9999?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d1579a8745398e34# тг: @AURA_VPN_OFF
+
 
