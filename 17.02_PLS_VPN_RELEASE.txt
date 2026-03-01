@@ -1,8 +1,8 @@
 #profile-title: PLS_VPN
 #profile-update-interval: 4
-#announce: автообновление - 👍 4 часов, техподдержка: @Stas_PLS_VPN_Helper [тг], бесплатно, быстро, навсегда 
+#announce: автообновление - 4 часов, техподдержка: @Stas_PLS_VPN_Helper [тг], бесплатно, быстро, навсегда. технический перерыв, примерное оставшееся время: 4:35:00
 
-vless://34536d24-0423-441e-956d-3b585e3daeb1@84.201.131.144:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&allowinsecure=0&type=xhttp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d1579a8745398e34#🇷🇺 1. 🟩🟩 БЕЛЫЕ СПИСКИ 
+vless://34536d24-0423-441e-956d-3b585e3daeb1@84.201.131.144:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d1579a8745398e34#🇷🇺 1. БЕЛЫЕ СПИСКИ 
 
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.65.209:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2476f063981ffd92#🇷🇺 2. БЕЛЫЕ СПИСКИ 
@@ -11,48 +11,21 @@ vless://080556c0-0117-07d0-b1d9-3708fa8ab8c4@37.139.33.223:52006?security=realit
 
 vless://642e5ad8-bd76-07d0-8b5c-b4d0628f07bc@5.188.141.67:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 4. БЕЛЫЕ СПИСКИ
 
-vless://89c8f8a0-a98c-4091-b91b-f57d228afd29@51.250.64.246:444?mode=gun&security=reality&encryption=none&authority=&pbk=7x07TcG4qOb1iSDB8KfdPdu9kZSlgQNzoEH0D1CpjGQ&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc&sni=5post-gate.x5.ru&sid=eeaaae5d951ddea3#🇫🇮 5. ФИНЛЯНДСКИЕ БЕЛЫЕ СПИСКИ 
+vless://400c1f85-9d3a-444a-8a50-81b11f3b4c20@84.201.128.76:443?security=reality&encryption=none&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=3c1523da43287ec4#🇩🇪 5. ГЕРМАНСКИЕ БЕЛЫЕ СПИСКИ 
 
-vless://630349b3-5579-4701-8dc2-c95b5af2ba0a@212.233.78.21:2085?mode=auto&path=%2Fxhttp-kz&security=none&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A0.0%2C%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%228-16%22%2C%22maxConnections%22%3A0.0%2C%22hKeepAlivePeriod%22%3A0.0%2C%22hMaxRequestTimes%22%3A%22600-900%22%7D%2C%22noGRPCHeader%22%3Atrue%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxBufferedPosts%22%3A60.0%2C%22scMaxEachPostBytes%22%3A%222000000-3000000%22%2C%22scMinPostsIntervalMs%22%3A%2210-50%22%7D&type=xhttp#🇰🇿 6. 🟩 КАЗАХСТАНСКИЕ БЕЛЫЕ
+vless://b4f272ea-cd4f-4df9-9929-1c6b49c0b6ac@51.250.86.102:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d17bd238f23fba92#🇷🇺 6. БЕЛЫЕ СПИСКИ
 
-vless://400c1f85-9d3a-444a-8a50-81b11f3b4c20@84.201.128.76:443?security=reality&encryption=none&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=3c1523da43287ec4#🇩🇪 7. ГЕРМАНСКИЕ БЕЛЫЕ СПИСКИ 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#🇬🇧 7. ВЕЛИКОБРИТАНИЯ 
 
+ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw==@149.102.132.186:80#🇬🇧 8. ВЕЛИКОБРИТАНИЯ
 
-vless://b4f272ea-cd4f-4df9-9929-1c6b49c0b6ac@51.250.86.102:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d17bd238f23fba92#🇷🇺 8. БЕЛЫЕ СПИСКИ
+ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ@2.58.81.221:80#🇩🇪 9. ГЕРМАНИЯ 
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#🇬🇧 9. ВЕЛИКОБРИТАНИЯ 
+vless://27889873-1e8b-442a-b61e-ac03c4df7b03@185.8.60.18:443?type=tcp&security=reality&encryption=none&flow=&sni=cloudrynth.com&fp=&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&sid=#🇱🇹 10. ЛИТВА
 
-ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw==@149.102.132.186:80#🇬🇧 10. ВЕЛИКОБРИТАНИЯ
+ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg@154.53.63.32:80#🇺🇸 11. США
 
-vless://e1cd50ff-9af9-48f0-8fea-de718260f0f8@151.247.197.218:503?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.amd.com&fp=safari&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sid=#🇫🇷 11. ФРАНЦИЯ
-
-ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ@95.111.250.4:80#🇫🇷 12. ФРАНЦИЯ
-
-vless://602ccb3d-6eb8-4cb5-832b-d506a73b0f9d@83.166.255.72:8443?mode=stream-up&security=reality&encryption=none&pbk=P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34&host=api-maps.yandex.ru&allowinsecure=0&type=xhttp&sni=api-maps.yandex.ru#🇩🇪 13. ГЕРМАНИЯ
-
-ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ@2.58.81.221:80#🇩🇪 14. ГЕРМАНИЯ 
-
-vless://27889873-1e8b-442a-b61e-ac03c4df7b03@185.8.60.18:443?type=tcp&security=reality&encryption=none&flow=&sni=cloudrynth.com&fp=&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&sid=#🇱🇹 15. ЛИТВА
-
-vless://602ccb3d-6eb8-4cb5-832b-d506a73b0f9d@147.45.217.250:443?mode=auto&path=%2Fws&security=reality&encryption=none&pbk=m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228&fp=randomized&allowinsecure=0&type=xhttp&sni=sun6-22.userapi.com#🇱🇹 16. ЛИТВА
-
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#🇹🇷 17. ТУРЦИЯ
-
-vless://e1cd50ff-9af9-48f0-8fea-de718260f0f8@185.70.185.228:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=pingless.com&fp=safari&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sid=#🇳🇱 18. НИДЕРЛАНДЫ
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#🇳🇱 19. НИДЕРЛАНДЫ 
-
-vless://602ccb3d-6eb8-4cb5-832b-d506a73b0f9d@147.45.116.72:443?mode=gun&security=reality&encryption=none&authority=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&fp=randomized&allowinsecure=0&type=grpc&serviceName=&sni=srv11.outlinekeys.com#🇧🇷 20. БРАЗИЛИЯ
-
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiaWpxclFOb1BBQlRpTDI2VTFlT0Ny@147.45.116.19:443#🇧🇷 21. БРАЗИЛИЯ
-
-
-ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg@154.53.63.32:80#🇺🇸 22. США
-
-ss://YWVzLTEyOC1nY206NTIzejJmZ3JkN2p4MHo1eHY2bzU=@167.160.90.51:11475#🇺🇸 23. 🟩 США
-
+vless://1c1447e8-5eb0-4281-a7af-3b3a601310dd@62.60.245.202:8443?security=reality&encryption=none&pbk=7kyVRSCsBRJ-W30oLqoR-M1WTVxea8JFV9lp_ERRnh0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=www.cloudflare.com&sid=5317f23842140976#🇳🇱 12. Ютуб без рекламы 
 
 
 
